@@ -6,7 +6,7 @@
 and put in https://app.lormaster.com
 
 
-api link/
+api link
 
 https://asia.api.riotgames.com/lor/active/v1/active-games/by-puuid/%7Bplayer_puuid%7D
 
