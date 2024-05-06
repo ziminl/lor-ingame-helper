@@ -9,3 +9,4 @@ and put in https://app.lormaster.com
 #Automatically clicks until the game start button appears. (passes all)/
 
 
+> python continue.py
